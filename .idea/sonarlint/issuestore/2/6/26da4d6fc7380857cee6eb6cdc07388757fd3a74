@@ -1,0 +1,8 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "l380".(¾ûÌ¢üÿÿÿÿ
+D
+java:S1481")Remove this unused "l380" local variable.(¾ûÌ¢üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ýÕð’
+V	java:S125"<This block of commented-out lines of code should be removed.(·¯á ûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8”ÀÚá‰0

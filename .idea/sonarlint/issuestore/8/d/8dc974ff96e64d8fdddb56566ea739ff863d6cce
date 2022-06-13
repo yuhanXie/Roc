@@ -1,0 +1,23 @@
+
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àÒþüøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®žßüÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ÃùÔ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ñ‡—ï
+e
+java:S2674="JCheck the return value of the "read" call to see how many bytes were read.(¥«±°ÿÿÿÿÿ
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(¾þá`
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ÍÎ—‰ùÿÿÿÿ
+V	java:S125F"<This block of commented-out lines of code should be removed.(ŸùÕ‹ÿÿÿÿÿ
+E
+java:S1144R"0Remove this unused private "epollCreate" method.(ä¸ß	
+C
+java:S1144Z"-Remove this unused private "epollCtl" method.(ô•ËÖ
+D
+java:S1144c".Remove this unused private "epollWait" method.(†¬Þ¡
+=
+java:S1604"(Make this anonymous inner class a lambda(ô§ê
+e
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÑÍ´¶ÿÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ

@@ -1,0 +1,17 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹•…Œ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Ç¨§ÿÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(éÁ¥óùÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(œûõîıÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ú¶…Îÿÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(û³Î²
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(÷ı·«ÿÿÿÿÿ
+Q	java:S125m"<This block of commented-out lines of code should be removed.(‹ş€¹
+D
+java:S1068".Remove this unused "readBuffer" private field.(Çïõ
+K
+java:S1068"0Remove this unused "directBuffer" private field.(»ƒ’¬ûÿÿÿÿ
+I
+java:S1068".Remove this unused "heapBuffer" private field.(ûä÷¬úÿÿÿÿ
+l
+java:S2095 "QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(ãöŒÎüÿÿÿÿ

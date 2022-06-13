@@ -1,0 +1,14 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(±«Çßúÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ìçÁÒ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±µùú8¥·”ä/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œéÂ’8¥·”ä/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯ó¶øÿÿÿÿ8ÓÒƒ”ä/
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÞºŒ¥ÿÿÿÿÿ
+T
+java:S4719'"9Replace charset name argument with StandardCharsets.UTF_8(›®Ìúÿÿÿÿ
+d
+java:S2095&"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(…Éùµ
